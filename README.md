@@ -1,3 +1,2 @@
 # hello-world
 first repo - turorial
-In this repo some ideas, problems may apperar for future developements...
